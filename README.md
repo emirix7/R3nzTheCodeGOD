@@ -1,5 +1,4 @@
-### Merhaba Ben **Erdem** 👋
-
+<img align="center" height="200" src="https://user-images.githubusercontent.com/58574988/114956905-862fd080-9e68-11eb-8b34-d0299c21a3cc.png">
 
 <br>
 
