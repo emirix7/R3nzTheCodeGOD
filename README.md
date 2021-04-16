@@ -17,6 +17,6 @@ Merhaba, ben **Erdem Yılmaz**, Türkiye'de kendi kendini geliştirmiş bir prog
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=r3nzthecodegod&show_icons=true&include_all_commits=true&theme=radical" alt="R3nzTheCodeGOD Stats" />
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&theme=radical" />
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=r3nzthecodegod&repo=CSGO-Cheat&theme=radical" />
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=r3nzthecodegod&repo=CSGO-Cheat&theme=radical" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=r3nzthecodegod&repo=Spotify-Color-Sorter&theme=radical" />
