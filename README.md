@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <em>
-    I'm a developer living in Turkey <b>Full stack</b>. I have developed myself a lot in languages such as <b>C / C ++, Python</b> and now I am a young person who is interested in Reverse engineering and continues to learn.
+    I'm a developer living in Turkey <b>Full stack</b>. I have improve myself a lot in languages such as <b>C / C ++, Python</b> and now I am a young person who is interested in Reverse engineering and continues to learn.
   </em> 
   <br>
 <hr>
