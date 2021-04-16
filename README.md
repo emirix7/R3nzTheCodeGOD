@@ -1,22 +1,42 @@
-<img align="center" height="200" src="https://user-images.githubusercontent.com/58574988/114956905-862fd080-9e68-11eb-8b34-d0299c21a3cc.png">
-
-<br>
-
-Merhaba, ben **Erdem Yılmaz**, Türkiye'de kendi kendini geliştirmiş bir programcıyım.
-
-**Diller ve Kütüphaneler:**
-
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=r3nzthecodegod&show_icons=true&include_all_commits=true&theme=radical" alt="R3nzTheCodeGOD Stats" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&theme=radical" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=r3nzthecodegod&repo=CSGO-Cheat&theme=radical" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=r3nzthecodegod&repo=Spotify-Color-Sorter&theme=radical" />
+<h1 align="center">Hello, I am <b>Erdem Yılmaz</b>
+</h1>
+<p align="center">
+  <a href="https://discord.gg/cFkyzPKAgD">
+  <img src="https://user-images.githubusercontent.com/58574988/114962344-2ee32d80-9e73-11eb-9b4b-ae1a30a0254c.png" alt = "Banner" height="250px" width="500px"/>
+  </a>
+</p>
+<p align="center">
+  <em>
+    I'm a developer living in Turkey <b>Full stack</b>. I have developed myself a lot in languages such as <b>C / C ++, Python</b> and now I am a young person who is interested in Reverse engineering and continues to learn.
+  </em> 
+  <br>
+<hr>
+<p align="center">
+<i><b>Languages known:</b></i> 
+  <br><br>
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="40px" />&nbsp;
+</p>
+<hr>
+<p align = "center">
+  <i><b>GitHub Stats:octocat::</b></i><br><br>
+  <img src = "https://github-readme-stats.lostgirljourney.vercel.app/api?username=r3nzthecodegod&bg_color=100,FF961F,1212FF&title_color=fff&text_color=fff&hide_border=true&show_icons=true&count_private=true&locale=tr" alt="GitHub Status" />
+  <br><br>
+  <img src = "https://github-readme-stats-lostgirljourney.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&title_color=fff&text_color=fff&bg_color=100,FF961F,1212FF&hide_border=true&locale=tr" alt="GitHub Status" />
+  <br><br>
+  <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=r3nzthecodegod&bg_color=000&hide_border=true&theme=dracula" alt="GitHub Activity" />
+</p>
+<hr>
+<p align="center"> 
+  <i><b>Spotify🎶...</b></i>
+  <br><br>
+  <a href="https://open.spotify.com/user/mhvqa49t82hmx6cxv94bnaayc"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mhvqa49t82hmx6cxv94bnaayc&count=10&width=1000" alt="Spotify"/>
+  </a>
+</p>
+<hr>
