@@ -34,7 +34,7 @@
   <i><b>Spotify🎶...</b></i>
   <br><br>
   <a href="https://open.spotify.com/user/mhvqa49t82hmx6cxv94bnaayc"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mhvqa49t82hmx6cxv94bnaayc&count=1&width=1000" alt="Spotify"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mhvqa49t82hmx6cxv94bnaayc&count=1&width=500" alt="Spotify"/>
   </a>
 </p>
 <hr>
