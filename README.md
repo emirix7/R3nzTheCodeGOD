@@ -25,9 +25,9 @@
 <hr>
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=r3nzthecodegod&bg_color=100,FF961F,1212FF&title_color=fff&text_color=fff&hide_border=true&show_icons=true&count_private=true&locale=tr" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=r3nzthecodegod&bg_color=100,FF961F,1212FF&title_color=fff&text_color=fff&hide_border=true&show_icons=true&count_private=true&locale=en" alt="GitHub Status" />
   <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&title_color=fff&text_color=fff&bg_color=100,FF961F,1212FF&hide_border=true&locale=tr" alt="GitHub Status" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&title_color=fff&text_color=fff&bg_color=100,FF961F,1212FF&hide_border=true&locale=en" alt="GitHub Status" />
 </p>
 <hr>
 <p align="center"> 
