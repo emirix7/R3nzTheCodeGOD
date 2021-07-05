@@ -9,10 +9,10 @@
 <p align="center">
 <i><b>Languages known:</b></i> 
   <br><br>
-  <img align="center" src="https://camo.githubusercontent.com/ecb93239b6e9fea47739b6c5cd50ffd5253873378a7d8f83a33ff43e70618db3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32352f61382f35642f32356138356439653530353734333064383232373361336337356537333031342e706e67" width="76px" />&nbsp;
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="60px" />&nbsp;
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="60px" />&nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="65px" />&nbsp;
+  <img align="center" src="https://camo.githubusercontent.com/ecb93239b6e9fea47739b6c5cd50ffd5253873378a7d8f83a33ff43e70618db3/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32352f61382f35642f32356138356439653530353734333064383232373361336337356537333031342e706e67" width="68px" />&nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="50px" />&nbsp;
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="50px" />&nbsp;
+  <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55px" />&nbsp;
 </p>
 
 <p align = "center">
