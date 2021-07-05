@@ -18,6 +18,6 @@
 <p align = "center">
   <i><b>GitHub Stats:octocat::</b></i><br><br>
   <img src = "https://github-readme-stats.vercel.app/api?username=r3nzthecodegod&bg_color=0F0F0F&title_color=E8A321&text_color=E8A321&hide_border=true&show_icons=true&count_private=true&locale=en" alt="GitHub Status" />
-  <br><br>
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=r3nzthecodegod&layout=compact&title_color=E8A321&text_color=E8A321&bg_color=0F0F0F&hide_border=true&locale=en" alt="GitHub Status" />
 </p>
